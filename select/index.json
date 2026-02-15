@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Bill Fake$",
+  "base_artist": "AK-69",
+  "createdAt": "2026-02-15T07:28:20.840279Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bill Fake$ (feat. Jin Dogg)",
+      "artist": "AK-69",
+      "has_synced": false,
+      "path": "select/01_Bill_Fake$_(feat._Jin_Dogg)_AK-69.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bill Fake$ (feat. Jin Dogg)",
+      "artist": "AK-69",
+      "has_synced": false,
+      "path": "select/pl_01_Bill_Fake$_(feat._Jin_Dogg)_AK-69.txt"
+    }
+  ]
+}
